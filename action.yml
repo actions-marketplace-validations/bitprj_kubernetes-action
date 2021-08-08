@@ -1,5 +1,5 @@
-name: "Kubernetes Action"
-description: "Interacts with kubernetes clusters calling kubectl commands. Integrates support for AWS EKS."
+name: "Kubernetes AWS/EKS Action"
+description: "Interacts with kubernetes clusters calling kubectl commands. Integrates support for AWS EKS. Forked from Kubernetes Action."
 branding:
   icon: 'anchor'  
   color: 'blue'
